@@ -2,7 +2,17 @@
 	"name": "directus-extension-hmac-sha256-hash",
 	"description": "This extension provides a simple and secure operation for Directus Flows to generate an HMAC-SHA256 hash from an input string and a secret key. It's perfect for creating signatures for API requests, verifying webhooks, or any other task requiring a keyed hash.",
 	"icon": "extension",
-	"version": "1.0.0",
+	"version": "1.0.1",
+	"author": "Kamil Nader",
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kamilnader/directus-extension-hmac-sha256-hash.git"
+	},
+	"bugs": {
+		"url": "https://github.com/daltonsutton/directus-extension-midnight-minimal-theme/issues"
+	},
+	"homepage": "https://github.com/kamilnader/directus-extension-hmac-sha256-hash",
 	"keywords": [
 		"directus",
 		"directus-extension",
@@ -22,7 +32,7 @@
 			"app": "src/app.ts",
 			"api": "src/api.ts"
 		},
-		"host": "^10.10.0"
+		"host": "^10.10.0 || ^11.0.0"
 	},
 	"scripts": {
 		"build": "directus-extension build",

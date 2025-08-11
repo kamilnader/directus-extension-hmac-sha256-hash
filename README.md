@@ -17,7 +17,8 @@ In your Directus project root, run the following command:
 npm install directus-extension-hmac-sha256-hash
 ```
 
-or from Directus Marketplace
+or from Directus Marketplace:
+Open the Directus Data Studio, navigate to the "Settings" tab, and click on "Marketplace". Search for "HMAC-SHA256 Hash" and click on the "Install" button
 
 After installation, restart your Directus instance to see the new operation available in the Flow builder.
 
