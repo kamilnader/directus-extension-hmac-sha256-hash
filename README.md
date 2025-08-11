@@ -1,0 +1,1 @@
+# directus-extension-hmac-sha256-hash
