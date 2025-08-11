@@ -6,7 +6,7 @@ This extension provides a simple and secure operation for Directus Flows to gene
 ## ✨ Screenshot
 
 Here is what the operation looks like in the Directus Flow builder:
-![alt text](operation-preview.jpeg)
+![alt text](https://raw.githubusercontent.com/kamilnader/directus-extension-hmac-sha256-hash/main/operation-preview.jpeg)
     
 
 ## 📦 Installation
