@@ -1,6 +1,6 @@
 {
 	"name": "directus-extension-hmac-sha256-hash",
-	"description": "Please enter a description for your extension",
+	"description": "This extension provides a simple and secure operation for Directus Flows to generate an HMAC-SHA256 hash from an input string and a secret key. It's perfect for creating signatures for API requests, verifying webhooks, or any other task requiring a keyed hash.",
 	"icon": "extension",
 	"version": "1.0.0",
 	"keywords": [
